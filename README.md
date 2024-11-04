@@ -30,5 +30,5 @@ The user terminal commands are as follows:
 2. If manual mode is enabled a pin connected to a potentiometer is read for a voltage value that is converted to an angular position, else, automatic mode causes the servo motor to sweep back and forth within the configured angle ranges.
 3. The SPI protocol packages the setting variables stored on tiva 1 and sends them to tiva 2 via a periodic timer interrupt.
 4. Tiva 2 unpacks the packet and updates the current settings for the motor/sensor operation.
-5. The ultrasonic sensor periodically pulses and the return pulse width response is measured and mapped to a distance value which is stored locally.
-6. THe most recent distance value and/or any error messages are sent back to tiva 1 to be displayed on the terminal.
+5. The ultrasonic sensor periodically pulses, and the return pulse width response is measured then mapped to a distance value which is stored locally.
+6. The most recent distance value and/or any error messages are sent back to tiva 1 to be displayed on the terminal on each SPI communication (configured to 275ms).
