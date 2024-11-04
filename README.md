@@ -4,7 +4,7 @@ University assignment for embedded systems.
 ## Aim
 
 This project's aim was to configure two tiva microcontroller boards to allow a user to control an ultrasonic sensor mounted on a servo motor and then read object distances from a terminal. 
-It was coded in Keil µVision for the Tiva TM4C129NCPDT.
+It was coded in Keil µVision5 for the Tiva TM4C129NCPDT.
 
 ## Features
 
@@ -13,7 +13,8 @@ The project features:
 -  ADC conversion of a voltage read from a pin on TIVA 1 connected to an external potentiometer used to configure the angular position of the servo motor during manual mode.
 -  UART subsystem used to provide a terminal interface for the user to issue commands via TERATERM.
 -  A SG90 servo motor with a 120 degree sweep range driven by a PWM signal from TIVA 2.
--  A SRF05 ultrasonic sensor triggered from TIVA 2 using a PWM pulse and input capture/timer subsystems to measure the response. 
+-  A SRF05 ultrasonic sensor triggered from TIVA 2 using a PWM pulse and input capture/timer subsystems to measure the response.
+-  A piezo buzzer for exit notifcations from the arduino TA0018 37-in-1 kit.
 
 The user terminal commands are as follows:
 | Key | Action |
