@@ -1,0 +1,120 @@
+Dependencies for Project 'template', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6190000::V6.19::ARMCLANG
+F (.\main.c)(0x670CF2F6)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/ptrsy/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/ptrsy/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C129-D__UVISION_VERSION="538" -D_RTE_ -DTM4C1294NCPDT -D_RTE_-o ./objects/main.o -MD)
+I (ES.h)(0x670687CA)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x63882CE8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63882CE8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x63882CE8)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C129.h)(0x530E8276)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C1294NCPDT.h)(0x530E8276)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\system_TM4C129.h)(0x51BF8E6A)
+I (my_lib.h)(0x670CDFEA)
+F (.\ES.h)(0x670687CA)()
+F (.\ES.lib)(0x66EA04D6)()
+F (.\my_lib.h)(0x670CDFEA)()
+F (.\uart.c)(0x670CE19E)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/ptrsy/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/ptrsy/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C129-D__UVISION_VERSION="538" -D_RTE_ -DTM4C1294NCPDT -D_RTE_-o ./objects/uart.o -MD)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C129.h)(0x530E8276)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C1294NCPDT.h)(0x530E8276)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F2EBE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63882CE8)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\system_TM4C129.h)(0x51BF8E6A)
+I (my_lib.h)(0x670CDFEA)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x63882CE8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x63882CE8)
+I (ES.h)(0x670687CA)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x63882CE8)
+F (.\potentiometer.c)(0x670C918A)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/ptrsy/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/ptrsy/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C129-D__UVISION_VERSION="538" -D_RTE_ -DTM4C1294NCPDT -D_RTE_-o ./objects/potentiometer.o -MD)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C129.h)(0x530E8276)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C1294NCPDT.h)(0x530E8276)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F2EBE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63882CE8)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\system_TM4C129.h)(0x51BF8E6A)
+I (my_lib.h)(0x670CDFEA)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x63882CE8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x63882CE8)
+I (ES.h)(0x670687CA)
+F (.\LCD.c)(0x670CCFD8)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/ptrsy/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/ptrsy/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C129-D__UVISION_VERSION="538" -D_RTE_ -DTM4C1294NCPDT -D_RTE_-o ./objects/lcd.o -MD)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C129.h)(0x530E8276)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C1294NCPDT.h)(0x530E8276)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F2EBE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63882CE8)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\system_TM4C129.h)(0x51BF8E6A)
+I (my_lib.h)(0x670CDFEA)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x63882CE8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x63882CE8)
+I (ES.h)(0x670687CA)
+F (.\comms.c)(0x670CEBA2)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/ptrsy/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/ptrsy/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C129-D__UVISION_VERSION="538" -D_RTE_ -DTM4C1294NCPDT -D_RTE_-o ./objects/comms.o -MD)
+I (ES.h)(0x670687CA)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x63882CE8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63882CE8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x63882CE8)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C129.h)(0x530E8276)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C1294NCPDT.h)(0x530E8276)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\system_TM4C129.h)(0x51BF8E6A)
+I (my_lib.h)(0x670CDFEA)
+F (.\piezo.c)(0x670CDEEE)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/ptrsy/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/ptrsy/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C129-D__UVISION_VERSION="538" -D_RTE_ -DTM4C1294NCPDT -D_RTE_-o ./objects/piezo.o -MD)
+I (ES.h)(0x670687CA)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x63882CE8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63882CE8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x63882CE8)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C129.h)(0x530E8276)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C1294NCPDT.h)(0x530E8276)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\system_TM4C129.h)(0x51BF8E6A)
+I (my_lib.h)(0x670CDFEA)
+F (.\timers.c)(0x670CF658)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/ptrsy/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/ptrsy/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C129-D__UVISION_VERSION="538" -D_RTE_ -DTM4C1294NCPDT -D_RTE_-o ./objects/timers.o -MD)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C129.h)(0x530E8276)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C1294NCPDT.h)(0x530E8276)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F2EBE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63882CE8)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\system_TM4C129.h)(0x51BF8E6A)
+I (my_lib.h)(0x670CDFEA)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x63882CE8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x63882CE8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x63882CE8)
+F (.\calllbacks.c)(0x670CF658)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/ptrsy/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/ptrsy/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C129-D__UVISION_VERSION="538" -D_RTE_ -DTM4C1294NCPDT -D_RTE_-o ./objects/calllbacks.o -MD)
+I (ES.h)(0x670687CA)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x63882CE8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63882CE8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x63882CE8)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C129.h)(0x530E8276)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C1294NCPDT.h)(0x530E8276)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\system_TM4C129.h)(0x51BF8E6A)
+I (my_lib.h)(0x670CDFEA)
+F (RTE/Device/TM4C1294NCPDT/startup_TM4C129.s)(0x530FB852)(--target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-I./RTE/_Target_1-IC:/Users/ptrsy/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/ptrsy/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C129-Wa,armasm,--pd,"__UVISION_VERSION SETA 538" -Wa,armasm,--pd,"_RTE_ SETA 1" -Wa,armasm,--pd,"TM4C1294NCPDT SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_tm4c129.o)
+F (RTE/Device/TM4C1294NCPDT/system_TM4C129.c)(0x530FB852)(-xc -std=c11 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/ptrsy/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/ptrsy/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C129-D__UVISION_VERSION="538" -D_RTE_ -DTM4C1294NCPDT -D_RTE_-o ./objects/system_tm4c129.o -MD)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63882CE8)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C129.h)(0x530E8276)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C1294NCPDT.h)(0x530E8276)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626F2EBE)
+I (C:\Users\ptrsy\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\system_TM4C129.h)(0x51BF8E6A)
